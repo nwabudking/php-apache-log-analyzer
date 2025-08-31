@@ -1,2 +1,3 @@
-# php-apache-log-analyzer
-Tool to analyze Apache server logs
+php-apache-log-analyzer
+
+Simple CLI tool to analyze Apache access logs. Usage: php analyzer.php sample-logs/access.log
